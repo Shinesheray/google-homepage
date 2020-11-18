@@ -98,7 +98,8 @@ main {
   padding-left: 50px;
   margin: 30px 0px;
   display: flex;
-  background: url(/) no-repeat scroll 10px 6px;
+  background: url(/images/desktop_searchbox_sprites302_hr.webp) no-repeat scroll
+    10px 6px;
   background-size: 30px;
   box-sizing: content-box;
 }
